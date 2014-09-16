@@ -24,4 +24,28 @@
       </DepositInfo>
     </Content>
   </JournalRec>
+  <JournalRec>
+    <SysTime>2014-08-07T14:23:01.017+02:00</SysTime>
+    <SeqNum>3729</SeqNum>
+    <UID>A3729</UID>
+    <Content>
+      <DepositInfo>
+        <TransInfo>
+          <AANDCECBData>
+            <CardNumber t="8">A/C NO. ************9431</CardNumber>
+          </AANDCECBData>
+        </TransInfo>
+        <NoteInfo>
+          <BankNoteDetail>
+            <Currency t="8">CZK</Currency>
+            <Denomination t="6">1000</Denomination>
+            <NoteID t="3">22282</NoteID>
+            <Category t="3">3</Category>
+            <Orientation t="3">4</Orientation>
+            <Signature t="8209">a210170a037e0876027e07e503020ec001e90def02640715000000000000000000000000000000000000</Signature>
+          </BankNoteDetail>
+        </NoteInfo>
+      </DepositInfo>
+    </Content>
+  </JournalRec>
 </Journal>
