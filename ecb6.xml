@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Journal>
+  <JournalRec>
+    <SysTime>2014-08-07T13:42:25.420+02:00</SysTime>
+    <SeqNum>3728</SeqNum>
+    <UID>A3728</UID>
+    <Content>
+      <DepositInfo>
+        <TransInfo>
+          <AANDCECBData>
+            <CardNumber t="8">A/C NO. ************4991</CardNumber>
+          </AANDCECBData>
+        </TransInfo>
+        <NoteInfo>
+          <BankNoteDetail>
+            <Currency t="8">CZK</Currency>
+            <Denomination t="6">1000</Denomination>
+            <NoteID t="3">14090</NoteID>
+            <Category t="3">3</Category>
+            <Orientation t="3">3</Orientation>
+            <Signature t="8209">1310170a0798037d0717023e0d4e02bc0c4e000000000000</Signature>
+          </BankNoteDetail>
+        </NoteInfo>
+      </DepositInfo>
+    </Content>
+  </JournalRec>
+</Journal>
